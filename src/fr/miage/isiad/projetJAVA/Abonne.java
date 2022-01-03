@@ -14,6 +14,8 @@ public class Abonne {
     public Abonne(String aNom) {
         this.nom = aNom;
     }
-    
-    
+
+    public String getNom() {
+        return nom;
+    }
 }
