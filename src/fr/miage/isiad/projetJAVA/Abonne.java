@@ -10,6 +10,10 @@ package fr.miage.isiad.projetJAVA;
  */
 public class Abonne {
     private String nom;
+
+    public Abonne(String aNom) {
+        this.nom = aNom;
+    }
     
     
 }
