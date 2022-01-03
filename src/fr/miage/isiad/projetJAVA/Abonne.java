@@ -9,5 +9,7 @@ package fr.miage.isiad.projetJAVA;
  * @author ETUD
  */
 public class Abonne {
+    private String nom;
+    
     
 }
