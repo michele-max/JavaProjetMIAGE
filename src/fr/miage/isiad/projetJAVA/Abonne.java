@@ -10,6 +10,8 @@ package fr.miage.isiad.projetJAVA;
  */
 public class Abonne {
     private String nom;
+    private String prenom;
+
 
     public Abonne(String aNom) {
         this.nom = aNom;
@@ -18,4 +20,5 @@ public class Abonne {
     public String getNom() {
         return nom;
     }
+    
 }
